@@ -1,20 +1,20 @@
 - id: 1
   title: Wonderwall
-  url: https://youtu.be/eG64n84LJ5A
+  url: https://www.youtube.com/embed/eG64n84LJ5A
   cover: /assets/images/video_covers/wonderwall.png
 - id: 2
   title: It's Time
-  url: https://youtu.be/6WwsjuRfzM8
+  url: https://www.youtube.com/embed/6WwsjuRfzM8
   cover: /assets/images/video_covers/itstime.png
 - id: 3
   title: Otherside
-  url: https://youtu.be/RRaJdfTBCDw
+  url: https://www.youtube.com/embed/RRaJdfTBCDw
   cover: /assets/images/video_covers/otherside.png
 - id: 4
   title: Muscape
-  url: https://youtu.be/k3UQzF9RbhU
+  url: https://www.youtube.com/embed/k3UQzF9RbhU
   cover: /assets/images/video_covers/muscape.png
 - id: 5
   title: Mad About You
-  url: https://youtu.be/v868Ri8vcPs
+  url: https://www.youtube.com/embed/v868Ri8vcPs
   cover: /assets/images/video_covers/may.png
