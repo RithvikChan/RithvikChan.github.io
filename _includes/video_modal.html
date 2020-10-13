@@ -1,0 +1,18 @@
+<div id="{{video.id}}" class="modal modal-fixed-footer">
+  <div class="modal-content">
+		<video width="320" height="240" controls>
+			<source src="{{video.src}}" type="video/mp4">
+		Your browser does not support the video tag.
+		</video>
+  </div>
+  <div class="modal-footer center-align">
+      <div class="buttons">
+        <a class="button_wrapper" target="_blank" href="{{project.url}}"><button class="fill">Paper</button></a>
+        <a class="button_wrapper" target="_blank" href="{{project.github_url}}"><button class="fill">Github</button></a>
+        <a href="" class="button_wrapper">
+          <button id="{{project.id}}" class="next fill">Next</button>
+        </a>
+      </div>
+  </div>
+</div>
+</div>
