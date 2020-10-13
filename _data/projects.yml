@@ -1,57 +1,40 @@
 - id: 2
-  title: Tic tac toe
-  url: https://tic-or-treat.herokuapp.com/
-  github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
-  description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
+  title: Sparse Reflectance Map Based Fabric Characterization
+  url: https://link.springer.com/chapter/10.1007/978-981-15-3514-7_19
+  github_url: 
+  description: An SVM classifier whcih uses reflection information from fabric images to classify them.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark
-                  javascript-plain,
-                  react-original,
-                  ruby-plain,
-                  rails-plain,
-                  postgresql-plain,
-                  heroku-original
-                ]
-  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
+                  python-plain,
+                  ]
+  cover: /assets/images/project_covers/srmbfc.png
   images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    '/assets/images/project_images/srmbfc/present.jpeg'
   ]
 
 - id: 3
-  title: Stack Overflow Clone
-  url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  title: PipeGAN
+  url: In Progress
+  github_url: https://github.com/RithvikChan/PipeGAN
+  description: PipeGAN uses concepts of pipelining in microprocessors and applies it to the area of machine learning. The model, implemented using PyTorch and Threading, achieves good quality images from the MNIST and FashionMNIST dataset with a speedup of up to 30% compared to similar serial implementations
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
+                  python-plain
                 ]
-  cover: /assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/project_covers/pg.png
   images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
+    '/assets/images/project_images/pg/results.png'
   ]
 - id: 4
-  title: ShootThingsGame
-  url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+  title: Memory Leak Plugin
+  url: https://drive.google.com/file/d/1hHs8CKWgBenzQQbI3PLbGvE9WtL-24ta/view?usp=sharing
+  github_url: https://github.com/RithvikChan/VerumMemoriae
+  description: Plugin for Sublime Text text-editor to detect and highlight memory leaks in a web application’s code-base. Integrated Bleak and MOSS to include static and dynamic memory leak detection capacilities
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
-                ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
+                  docker-plain,
+                  python-plain
+                  ]
+  cover: /assets/images/project_covers/bleak-cover.png
   images: [
-    '/assets/images/project_covers/shoot-things-game-cover.png'
+    '/assets/images/project_covers/bleak-cover.png'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/

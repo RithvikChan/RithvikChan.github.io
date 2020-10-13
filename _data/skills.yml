@@ -1,17 +1,17 @@
 - name: Programming
   skills:
-    - class: html5-plain
+    - class: python-plain
       skill_name: Python
-    - class: css3-plain
+    - class: java-plain
       skill_name: Java
-    - class: sass-plain
+    - class: c-plain
       skill_name: C
-    - class: bootstrap-plain
+    - class: cplusplus-plain
       skill_name: C++
-    - class: jquery-plain
-      skill_name: SQL
+    - class: javascript-plain
+      skill_name: Javascript
 
-- name: Parallel/Distributed Frameworks
+- name: Parallel and Distributed Frameworks
   skills:
     - class: javascript-plain
       skill_name: Hadoop
@@ -19,8 +19,10 @@
       skill_name: Spark
     - class: ruby-plain
       skill_name: OpenMP
+    - class: docker-plain
+      skill_name: Docker
 
-- name: Machine Learning Frameworks
+- name: ML   Frameworks
   skills:
     - class: postgresql-plain
       skill_name: Keras
@@ -31,9 +33,9 @@
 
 - name: Databases
   skills:
-    - class: react-plain
+    - class: mysql-plain
       skill_name: MySQL
-    - class: angularjs-plain
+    - class: postgresql-plain
       skill_name: PostgreSQL
     - class: vuejs-plain
       skill_name: SQLite
