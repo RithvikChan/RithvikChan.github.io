@@ -45,6 +45,41 @@
 .contact__bkgrnd {
   background-image: url("../images/contact.jpg"); }
 
+.glitch__img:nth-child(n + 2) {
+  opacity: 0; }
+
+.glitch:hover > .glitch__img:nth-child(n + 2) {
+  box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.6);
+  animation-duration: var(--time-anim);
+  animation-delay: var(--delay-anim);
+  animation-timing-function: linear;
+  animation-iteration-count: infinite; }
+
+.glitch:hover > .box {
+  animation-name: glitch-anim-text;
+  animation-duration: var(--time-anim);
+  animation-timing-function: linear;
+  animation-iteration-count: infinite; }
+
+.glitch:hover > .glitch__img:nth-child(2) {
+  background-color: var(--blend-color-2);
+  background-blend-mode: var(--blend-mode-2);
+  animation-name: glitch-anim-1; }
+
+.glitch:hover > .glitch__img:nth-child(3) {
+  background-color: var(--blend-color-3);
+  background-blend-mode: var(--blend-mode-3);
+  animation-name: glitch-anim-2; }
+
+.glitch:hover > .glitch__img:nth-child(4) {
+  background-color: var(--blend-color-4);
+  background-blend-mode: var(--blend-mode-4);
+  animation-name: glitch-anim-3; }
+
+.glitch:hover > .glitch__img:nth-child(5) {
+  background-color: var(--blend-color-5);
+  background-blend-mode: var(--blend-mode-5);
+  animation-name: glitch-anim-flash; }
 
 /* Animations */
 @keyframes glitch-anim-1 {
