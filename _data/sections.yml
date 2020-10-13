@@ -17,8 +17,8 @@ resume:
   class: m6 algorithms
   border: algorithms
 contact:
-  url: /contact
-  heading: Contact
-  words: Feel free to shoot me an email
+  url: /hobbies
+  heading: Hobbies
+  words: Listen to the music, feel the bass.
   class: m6 contact
   border: contact
