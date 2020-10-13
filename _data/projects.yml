@@ -6,7 +6,7 @@
   technologies: [
                   python-plain,
                   ]
-  cover: /assets/images/project_covers/srmbfc.png
+  cover: /assets/images/project_covers/srmbfc-cover.png
   images: [
     '/assets/images/project_images/srmbfc/present.jpeg'
   ]
