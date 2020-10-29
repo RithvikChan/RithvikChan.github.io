@@ -1,4 +1,5 @@
 - id: 2
+  term1: Paper
   title: Sparse Reflectance Map Based Fabric Characterization
   url: https://link.springer.com/chapter/10.1007/978-981-15-3514-7_19
   github_url: 
@@ -12,6 +13,7 @@
   ]
 
 - id: 3
+  term1: Paper(In Process)
   title: PipeGAN
   url: In Progress
   github_url: https://github.com/RithvikChan/PipeGAN
@@ -24,6 +26,7 @@
     '/assets/images/project_images/pg/results.png'
   ]
 - id: 4
+  term1: Demo
   title: Memory Leak Plugin
   url: https://drive.google.com/file/d/1hHs8CKWgBenzQQbI3PLbGvE9WtL-24ta/view?usp=sharing
   github_url: https://github.com/RithvikChan/VerumMemoriae
@@ -35,6 +38,19 @@
   cover: /assets/images/project_covers/bleak-cover.png
   images: [
     '/assets/images/project_covers/bleak-cover.png'
+  ]
+- id: 5
+  term1: Report
+  title: MiniHIVE
+  url: https://drive.google.com/file/d/1B_BhOk_iD2lEwnLRpmONiez_P-n2rE9S/view?usp=sharing
+  github_url: https://github.com/RithvikChan/MiniHive
+  description: A working model of Hive on a smaller scale on the Hadoop Distributed File System. Enables standard SQL queries on a distributed database using intelligent parsing and Map Reduce jobs.
+  technologies: [
+                  java-plain
+                  ]
+  cover: /assets/images/project_covers/MiniHIVECover.jpg
+  images: [
+    '/assets/images/project_covers/MiniHIVECover.jpg'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
