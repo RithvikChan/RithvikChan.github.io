@@ -15,21 +15,21 @@
   skills:
     - class: docker-plain
       skill_name: Docker
-  - class: hadoop-plain
+    - class: hadoop-plain
       skill_name: Hadoop
     - class: spark-plain
       skill_name: Spark
     - class: openmp-plain
       skill_name: OpenMP
 
-- name: ML   Frameworks
+- name: ML Frameworks
   skills:
     - class: keras-plain
       skill_name: Keras
     - class: tensorflow-plain
       skill_name: Tensorflow
     - class: sklearn-plain
-      skill_name: Scikit-learn
+      skill_name: Scikitlearn
 
 - name: Databases
   skills:
