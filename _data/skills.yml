@@ -13,23 +13,23 @@
 
 - name: Parallel and Distributed Frameworks
   skills:
-    - class: javascript-plain
-      skill_name: Hadoop
-    - class: python-plain
-      skill_name: Spark
-    - class: ruby-plain
-      skill_name: OpenMP
     - class: docker-plain
       skill_name: Docker
+  - class: hadoop-plain
+      skill_name: Hadoop
+    - class: spark-plain
+      skill_name: Spark
+    - class: openmp-plain
+      skill_name: OpenMP
 
 - name: ML   Frameworks
   skills:
-    - class: postgresql-plain
+    - class: keras-plain
       skill_name: Keras
-    - class: mongodb-plain
+    - class: tensorflow-plain
       skill_name: Tensorflow
-    - class: mysql-plain
-      skill_name: Sklearn
+    - class: sklearn-plain
+      skill_name: Scikit-learn
 
 - name: Databases
   skills:
@@ -37,5 +37,5 @@
       skill_name: MySQL
     - class: postgresql-plain
       skill_name: PostgreSQL
-    - class: vuejs-plain
+    - class: sqlite-plain
       skill_name: SQLite
