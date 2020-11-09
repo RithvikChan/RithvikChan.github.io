@@ -3,7 +3,7 @@
   title: Sparse Reflectance Map Based Fabric Characterization
   url: https://link.springer.com/chapter/10.1007/978-981-15-3514-7_19
   github_url: 
-  description: An SVM classifier whcih uses reflection information from fabric images to classify them.
+  description: An SVM classifier which uses reflection information from fabric images to classify them.
   technologies: [
                   python-plain,
                   ]
@@ -13,11 +13,11 @@
   ]
 
 - id: 3
-  term1: Paper(In Process)
+  term1: Camera Ready Paper
   title: PipeGAN
-  url: In Progress
+  url: https://www.dropbox.com/s/hp8ph5nzmiemqu3/PipeGAN.pdf?dl=0
   github_url: https://github.com/RithvikChan/PipeGAN
-  description: PipeGAN uses concepts of pipelining in microprocessors and applies it to the area of machine learning. The model, implemented using PyTorch and Threading, achieves good quality images from the MNIST and FashionMNIST dataset with a speedup of up to 30% compared to similar serial implementations
+  description: PipeGAN uses concepts of pipelining in microprocessors and applies it to the area of Machine Learning. The model, implemented using PyTorch and Threading, achieves good quality images from the MNIST and FashionMNIST dataset with a speedup of up to 30% compared to similar serial implementations.
   technologies: [
                   python-plain
                 ]
@@ -30,7 +30,7 @@
   title: Memory Leak Plugin
   url: https://drive.google.com/file/d/1hHs8CKWgBenzQQbI3PLbGvE9WtL-24ta/view?usp=sharing
   github_url: https://github.com/RithvikChan/VerumMemoriae
-  description: Plugin for Sublime Text text-editor to detect and highlight memory leaks in a web application’s code-base. Integrated Bleak and MOSS to include static and dynamic memory leak detection capacilities
+  description: Plugin for Sublime Text text-editor to detect and highlight memory leaks in a web application’s code-base. Integrated BLeak and MOSS to include static and dynamic memory leak detection capacilities
   technologies: [
                   docker-plain,
                   python-plain
@@ -52,6 +52,20 @@
   images: [
     '/assets/images/project_covers/MiniHIVECover.jpg'
   ]
+- id: 6
+  term1: Report
+  title: Viper Compiler
+  url: https://drive.google.com/file/d/19hQWETD-ptnXLbhIpMrSu8lxi7xIX6JD/view?usp=sharing
+  github_url: https://github.com/RithvikChan/MiniHive
+  description: A compiler for basic Python constructs such as strings, integers, if-elif-else and while loops developed using Lex, Yacc and C.
+  technologies: [
+                  c-plain
+                  ]
+  cover: /assets/images/project_covers/viper-cover.png
+  images: [
+    '/assets/images/project_covers/viper-cover.png'
+  ]
+
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
 #   github_url: https://github.com/LevytsRoman/EngageMe
